@@ -1,14 +1,16 @@
 ---
 layout: default
-title: "test!asdlkjiasldkjasdlknjas  asldjloij asd "
-author: "Jon Doe"
+title: "A new blog"
+author: "Pirx The Pilot (<a href='pirx-the-pilot@mailbox.org'>pirx-the-pilot@mailbox.org</a>)"
+date: 2015-04-03 14:00:00
 ---
-Projektm
+#### Propaganda incoming...
+We’re starting a blog. From time to time, we’re going to deal with different issues all around Freifunk and the KBU-community. Posts are going to appear infrequently.
 
-foobar
+- This blog is jekyll based. If you’re interested in blogging, file a pull-request for <a href="https://github.com/ff-kbu/website">https://github.com/ff-kbu/website</a>
+- It’s not translated by default. Posts will in English (mostly) or German. Hardly anybody will take care of translating ‘em all.
+- It’s opinionated and does not reflect a consensus within our community.</li>
 
-#### foo
-sdfsdf3
+Due to technical limitations of jekyll, there will be no comments. Join the <a href="#kontakt">maillinglist</a> if you’re up for discussing things and thinkings.
 
-##### bbbbar
-asdas
+Cheers, Pirx
