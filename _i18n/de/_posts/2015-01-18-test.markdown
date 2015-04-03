@@ -11,6 +11,6 @@ We’re starting a blog. From time to time, we’re going to deal with different
 - It’s not translated by default. Posts will in English (mostly) or German. Hardly anybody will take care of translating ‘em all.
 - It’s opinionated and does not reflect a consensus within our community.</li>
 
-Due to technical limitations of jekyll, there will be no comments. Join the <a href="#kontakt">maillist</a> if you’re up for discussing things and thinkings.
+Due to technical limitations of jekyll, there will be no comments. Join the <a href="#kontakt">maillinglist</a> if you’re up for discussing things and thinkings.
 
 Cheers, Pirx
